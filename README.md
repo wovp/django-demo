@@ -2,7 +2,7 @@
 
 流程设计：
 
-<img src="C:\Users\11\AppData\Roaming\Typora\typora-user-images\image-20230715225801132.png" alt="image-20230715225801132" style="zoom:50%;" />
+<img src="/readme/image-flow-chart.png"  style="zoom:50%;" />
 
 
 
