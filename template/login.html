@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1> 这是表单</h1>
+<form method="post" action="/login/">
+    {% csrf_token %}
+    username<input  name="username" >
+    password<input  name="password" >
+    <button type="submit" name="提交">提交</button>
+</form>
+<a href="../register">注册</a>
+</body>
+</html>
